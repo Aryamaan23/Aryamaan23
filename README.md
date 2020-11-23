@@ -28,14 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 
-### Connect with me:
 
-### Connect with me:
-
-[<img align="left" alt="Aryamaan23 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aryamaan23 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-
-<br />
