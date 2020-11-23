@@ -26,12 +26,14 @@ Here are some ideas to get you started:
 - 🥅 2020 & 2021 Goals: Contribute more to Open Source projects and to become a competitive programmer
 - ⚡ Fun fact: I love reading books and quotes..
 
-![87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3](https://user-images.githubusercontent.com/60667917/100003225-bc9e7d80-2deb-11eb-8a9d-2bcca799793e.gif)
+
 
 
 
 [![Aryamaan's github stats](https://github-readme-stats.vercel.app/api?username=Aryamaan23&theme=radical)](https://github.com/Aryamaan23/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamaan23&theme=radical)](https://github.com/Aryamaan23/github-readme-stats)
+
+<img align="right" alt="GIF" width="26px" src="https://user-images.githubusercontent.com/60667917/100003225-bc9e7d80-2deb-11eb-8a9d-2bcca799793e.gif" />
 
 ### Languages and Tools:
 
