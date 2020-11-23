@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" width="260px" src="https://user-images.githubusercontent.com/60667917/100003225-bc9e7d80-2deb-11eb-8a9d-2bcca799793e.gif" />
 
+<br/>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
