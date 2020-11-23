@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 
+[![Aryamaan's github stats](https://github-readme-stats.vercel.app/api?username=Aryamaan23)](https://github.com/Aryamaan23/github-readme-stats)
+
+
 ### Connect with me:
 
 
