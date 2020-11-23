@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 & 2021 Goals: Contribute more to Open Source projects and to become a competitive programmer
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love reading books and quotes..
 
 
 [![Aryamaan's github stats](https://github-readme-stats.vercel.app/api?username=Aryamaan23)](https://github.com/Aryamaan23/github-readme-stats)
