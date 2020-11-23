@@ -46,6 +46,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="JupyterNotebook" width="26px" src="https://user-images.githubusercontent.com/60667917/99985462-ff545b80-2dd3-11eb-8ee3-881a18eca48e.png" />
 <img align="left" alt="RASA" width="26px" src="https://user-images.githubusercontent.com/60667917/99985719-50644f80-2dd4-11eb-861e-431e8d983886.png" />
+<img align="left" alt="Flask" width="26px" src="https://user-images.githubusercontent.com/60667917/99985988-a638f780-2dd4-11eb-975c-9a4a4fae12f3.png" />
+
+
 
 
 
