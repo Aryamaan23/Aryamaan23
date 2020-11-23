@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![Aryamaan's github stats](https://github-readme-stats.vercel.app/api?username=Aryamaan23&theme=radical)](https://github.com/Aryamaan23/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamaan23&theme=radical)](https://github.com/Aryamaan23/github-readme-stats)
 
-<img align="right" alt="GIF" width="500px" src="https://user-images.githubusercontent.com/60667917/100003225-bc9e7d80-2deb-11eb-8a9d-2bcca799793e.gif" />
+<img align="right" alt="GIF" width="260px" src="https://user-images.githubusercontent.com/60667917/100003225-bc9e7d80-2deb-11eb-8a9d-2bcca799793e.gif" />
 
 ### Languages and Tools:
 
