@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <br />
 
-[linkedin]:linkedin.com/in/aryamaan-pandey-1710401b2 
+[linkedin]:linkedin.com/in/aryamaan-pandey-1710401b2/
 [instagram]:https://www.instagram.com/aryamaan23/
 
 
