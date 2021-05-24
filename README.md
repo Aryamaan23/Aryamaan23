@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamaan23&theme=radical)](https://github.com/Aryamaan23/github-readme-stats)
 
-
 <br/>
 
 ### Languages and Tools:
