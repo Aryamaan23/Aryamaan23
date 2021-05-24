@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love reading books and quotes..
 
 <img align="right" alt="GIF" width="260px" src="https://user-images.githubusercontent.com/60667917/100003225-bc9e7d80-2deb-11eb-8a9d-2bcca799793e.gif" />
-
 <br/>
 
 
