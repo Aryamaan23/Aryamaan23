@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 🥅 2020 & 2021 Goals: Contribute more to Open Source projects and to become a competitive programmer
 - ⚡ Fun fact: I love reading books and quotes..
 
+<img align="right" alt="GIF" height=260px width="300px" src="https://miro.medium.com/max/4480/1*tsi75heHTuQivnHienshkw.png" />
 <img align="right" alt="GIF" width="260px" src="https://i.pinimg.com/originals/ef/55/d9/ef55d98e8bdb6e2b194b8022207d58a5.gif" />
 <br/>
 
