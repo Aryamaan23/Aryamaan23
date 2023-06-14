@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, I'm Aryamaan 👋
-### A machine learning and data science enthusiast who is always ready to code and collab.
+### A software developer who is always ready to code and collab.
 
 
 
